@@ -1,0 +1,135 @@
+-------------
+I. Essentials
+-------------
+
+
+• San Andreas Downgrader by gamerzworld
+https://gtaforums.com/topic/927016-san-andreas-downgrader/
+
+• Large Address Aware by Silent (not included, but generated .exe is)
+https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram/
+
+• CLEO4.4 by Seemann
+https://cleo.li/
+
+• CLEO+ by JuniorDjjr
+https://github.com/JuniorDjjr/CLEOPlus
+
+• CrashInfo 1.2 by Junior_Djjr
+https://www.mixmods.com.br/2022/09/crashinfo/
+
+• SCRLog 2020.3 by LINK/2012
+https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/
+
+• Framerate Vigilante by Junior_Djjr
+https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
+
+
+--------------------
+II. GTA Mixed, etc.
+--------------------
+
+• GTA Mixed by MixMods community
+https://www.mixmods.com.br/2021/10/gta-mixed-lcvcsa/
+
+• Story Mode 2.0 by ElYisusKing
+https://gtaforums.com/topic/959657-story-mode-20/
+
+• VehFuncs by Junior_Djjr
+https://www.mixmods.com.br/2022/02/sa-vehfuncs/
+
+
+---------------
+III. Game Fixes
+---------------
+
+
+• Pre-Lighting Fixes Pack by MixMods community
+https://www.mixmods.com.br/2021/10/pre-lighting-fixes-pack-correcoes-de-iluminacao/
+
+• Real Traffic Fix by Junior_Djjr
+https://www.mixmods.com.br/2022/04/real-traffic-fix/
+
+
+------------------
+IV. User Interface
+------------------
+
+
+• Loadscreens 4K Definitive by Jessica Natalia and Junior_Djjr
+https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/
+
+
+• Mobile Font Fixed by WarDrum and Junior_Djjr
+https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/
+
+
+• Proper Radar by Junior_Djjr
+https://www.mixmods.com.br/2022/07/proper-radar/
+
+• Remastered GUI and Effects
+(link missing)
+
+-------------
+V. Characters
+-------------
+
+
+• III Xbox Hands by Rockstar North
+https://www.mixmods.com.br/2021/03/mobile-xbox-hands-maos-com-dedos-separados/
+
+
+
+------------------
+VI. World Graphics
+------------------
+
+• ECG - VehicleTXD by Junior_Djjr
+https://www.mixmods.com.br/2020/01/ecg-enhanced-classic-graphics-vehicle-txd/
+
+• Improved and Fixed Original Vegetation by decipher96
+https://www.mixmods.com.br/2021/04/improved-and-fixed-original-vegetation-arvores-mais-redondas/
+
+• Proper Vehicles Retexture 2K by MixMods community
+https://www.mixmods.com.br/2022/04/sa-sade-proper-vehicles-retex/
+
+• ROSA Project Evolved by Jessica Natalia (Firefly) 
+https://www.mixmods.com.br/2022/03/rosa-project-evolved-remaster-texturas-hd/
+
+• Shadow Settings Extender by DK22Pac
+https://www.mixmods.com.br/2020/03/shadows-settings-extender-v2-1-2-extensor-de-sombras/
+
+• Smooth Criminal Bicycles by Zeneric
+https://www.mixmods.com.br/2019/06/smooth-criminal-bicycles-bicicletas-mais-arredondadas/
+
+
+---------------
+VII. Animations
+---------------
+
+
+• BeSlim by Junior_Djjr
+https://www.mixmods.com.br/2019/03/beslim-opcoes-para-o-cj-musculoso-e-gordo/
+
+• Run with heavy weapons by _AG
+https://www.mixmods.com.br/2018/10/correr-com-armas-pesadas-correr-com-rifle/
+
+
+-------------
+VIII. Gameplay
+-------------
+
+
+• Collectibles on Radar by kong78
+https://www.mixmods.com.br/2022/03/collectibles-on-radar-mostrar-coletaveis-no-mapa/
+
+• PedSkills by Junior_Djjr
+https://www.mixmods.com.br/2022/08/pedskills/
+
+---------
+IX. Bonus
+---------
+
+
+• HD Movies by _AG
+https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd/
